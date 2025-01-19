@@ -3,7 +3,7 @@ const roles = [
   "Junior Developer",
   "Platform Expert",
   "HubSpot Specialist",
-  "Automation Engineer",
+  "Automation",
   "Marketing Tech Expert"
 ];
 
